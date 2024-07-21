@@ -1,0 +1,24 @@
+{
+	"todos": [
+		{
+			"id": 0,
+			"title": "Buy Groceries",
+			"completed": false
+		},
+		{
+			"id": 1,
+			"title": "Make Side Project",
+			"completed": true
+		},
+		{
+			"id": 2,
+			"title": "Revise Javascript",
+			"completed": false
+		},
+		{
+			"id": 3,
+			"title": "Revise SQL",
+			"completed": false
+		}
+	]
+}

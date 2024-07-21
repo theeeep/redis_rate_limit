@@ -1,0 +1,21 @@
+{
+	"name": "rate_limit_api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "wrangler dev src/index.ts",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@upstash/ratelimit": "^2.0.1",
+		"@upstash/redis": "^1.33.0",
+		"hono": "^4.5.1"
+	},
+	"devDependencies": {
+		"wrangler": "^3.65.1"
+	}
+}
